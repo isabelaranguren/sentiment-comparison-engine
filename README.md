@@ -1,4 +1,4 @@
-# A sentiment comparison program sing NLP (Natural Language Processing) and the Twitter API 
+# A sentiment comparison program sing NLP and the Twitter API 
 
 ##  How does the program work?
 
